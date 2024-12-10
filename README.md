@@ -192,3 +192,27 @@ Replace `your_jwt_secret_key` with a secure random string.
 - **Order History**: Users can view order history via GET request to `/api/order/user/{email}`.
 
 
+![image](https://github.com/user-attachments/assets/558d3009-6c26-4764-ac5c-9d763158781b)
+
+
+![image](https://github.com/user-attachments/assets/34a97638-d344-4dca-9538-86c332ea23d7)
+
+
+
+![image](https://github.com/user-attachments/assets/0949b062-19c3-4e61-9230-bfe5c61969b2)
+
+![image](https://github.com/user-attachments/assets/5d926ed0-1c66-443f-93bc-18a09207bba3)
+
+
+![image](https://github.com/user-attachments/assets/e482a848-f819-4282-8507-5e5c2e1f980c)
+
+![image](https://github.com/user-attachments/assets/7d11b8fb-3148-4138-b595-af666e0741ff)
+
+![image](https://github.com/user-attachments/assets/3fd5f76a-41d3-4f4c-85ee-a7bd9daaece7)
+
+
+
+
+
+
+
