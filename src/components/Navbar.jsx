@@ -27,7 +27,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center py-4">
         <Link to="/" className="flex items-center text-xl font-bold text-orange-500">
       <img src={img} alt="Food Order Logo" className="h-8 w-8 mr-2" /> {/* Adjust size as needed */}
-      Akasa Air Food Order
+      CraveMate
     </Link>
 
           {/* Mobile menu button */}
